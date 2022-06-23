@@ -2,7 +2,6 @@
 
 - 🔭 Não possuo emprego, atualmente estou no primeiro período do curso de Ciência da Computação
 - 🌱 Atualmente estou aprendendo Java, C e C++
-- 📫 Contate meu email: felipersf374@gmail.com
 - 😄 Ele/dele
 - <div align="0">
   <a href="https://github.com/Felkng">
