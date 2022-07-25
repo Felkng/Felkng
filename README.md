@@ -1,8 +1,7 @@
-### Olá! Sou Felipe Ferreira 👋
+### Hello! I am Felipe Ferreira 👋
 
-- 🔭 Não possuo emprego, atualmente estou no primeiro período do curso de Ciência da Computação
-- 🌱 Atualmente estou aprendendo Java, C e C++
-- 😄 Ele/dele
+- 🔭 I do not have a job, currently I am second period in my CC course
+- 🌱 Currently I am learning Java and C
 - <div align="0">
   <a href="https://github.com/Felkng">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felkng&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
