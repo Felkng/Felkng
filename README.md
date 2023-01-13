@@ -1,6 +1,6 @@
 ### Hello! I am Felipe Ferreira 👋
 
-- 🔭 I do not have a job, currently I am second period in my CS course
+- 🔭 Student, currently I am third period in my CS course
 - 🌱 Currently I am learning Java and C
 - <div align="0">
   <a href="https://github.com/Felkng">
