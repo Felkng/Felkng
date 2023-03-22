@@ -1,7 +1,7 @@
 ### Hello! I am Felipe Ferreira 👋
 
 - 🔭 Student, currently I am third period in my CS course
-- 🌱 Currently I am learning Java and C
+- 🌱 Studying...
 - <div align="0">
   <a href="https://github.com/Felkng">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felkng&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
