@@ -12,15 +12,16 @@
   
 ##
 
-- <div align="0">
+<div align="0">
   <a href="https://github.com/Felkng">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felkng&show_icons=true&theme=gruvbox"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkng&layout=compact&theme=gruvbox"/>       
-  </div>
+</div>
     
     ##
     ### 🛰 Technologies:
     ##
+    
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-C" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Felipe-JAVA" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
