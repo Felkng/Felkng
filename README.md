@@ -19,7 +19,7 @@
   </div>
     
     ##
-    ### technologies:
+    ### 🛰 Technologies:
     ##
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-C" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
