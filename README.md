@@ -14,7 +14,7 @@
 
 <div align="0">
   <a href="https://github.com/Felkng">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felkng&show_icons=true&rank_icon=true&theme=gruvbox"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felkng&show_icons=true&rank_icon=percentile&theme=gruvbox"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkng&layout=compact&theme=gruvbox"/>       
 </div>
     
