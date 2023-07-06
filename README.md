@@ -1,4 +1,4 @@
-### Hello! I am Felipe Ferreira 👋
+### Hello! I am Felipe Ferreira. 👋
 
 - Brazilian.
 - 🔭 Student, currently I am fourth period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
@@ -19,7 +19,7 @@
   </div>
     
     ##
-    #technologies
+    ### technologies:
     ##
   <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-C" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
