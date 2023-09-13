@@ -29,7 +29,6 @@
   <img align="center" alt="Felipe-JAVA" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Felipe-JS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Felipe-CSS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Felipe-CSS-BS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
   <img align="center" alt="Felipe-HTML" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Felipe-VS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Felipe-GIT" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
