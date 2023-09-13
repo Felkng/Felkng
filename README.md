@@ -1,13 +1,13 @@
 ### Hello! I am Felipe Ferreira. 👋
 
 - Brazilian.
-- 🔭 Student, currently I am fourth period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
+- 🔭 Student, currently I am third period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
 - 🌱 Studying...
 
 ##
 
 - Brasileiro.
-- 🔭 Estudante, atualmente estou no meu quarto período do Curso de CC no IFNMG (Instituto Federal do Norte de Minas Gerais).
+- 🔭 Estudante, atualmente estou no meu terceiro período do Curso de CC no IFNMG (Instituto Federal do Norte de Minas Gerais).
 - 🌱 Estudando...
   
 ##
@@ -28,6 +28,7 @@
   <img align="center" alt="Felipe-C" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
   <img align="center" alt="Felipe-JAVA" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Felipe-JS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="Felipe-TS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Felipe-CSS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Felipe-HTML" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" alt="Felipe-VS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
