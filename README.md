@@ -41,6 +41,7 @@
   <img align="center" alt="Felipe-GRAPHQL" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
   <img align="center" alt="Felipe-MYSQL" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="Felipe-MONGO" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align="center" alt="Felipe-FIREBASE" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
 </div>
 
 ##
