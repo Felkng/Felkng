@@ -1,13 +1,13 @@
 ### Hello! I am Felipe Ferreira. 👋
 
 - Brazilian.
-- 🔭 Student, currently I am fourth period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
+- 🔭 Student, currently I am fifth period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
 - 🌱 Studying...
 
 ##
 
 - Brasileiro.
-- 🔭 Estudante, atualmente estou no meu quarto período do Curso de CC no IFNMG (Instituto Federal do Norte de Minas Gerais).
+- 🔭 Estudante, atualmente estou no meu quinto período do Curso de CC no IFNMG (Instituto Federal do Norte de Minas Gerais).
 - 🌱 Estudando...
   
 ##
