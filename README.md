@@ -1,13 +1,13 @@
 ### Hello! I am Felipe Ferreira. 👋
 
 - Brazilian.
-- 🔭 Student, currently I am fifth period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
+- 🔭 Student, currently I am sixth period in my CS course in IFNMG (Federal Institute of North of Minas Gerais).
 - 🌱 Studying...
 
 ##
 
 - Brasileiro.
-- 🔭 Estudante, atualmente estou no meu quinto período do Curso de CC no IFNMG (Instituto Federal do Norte de Minas Gerais).
+- 🔭 Estudante, atualmente estou no meu sexto período do Curso de CC no IFNMG (Instituto Federal do Norte de Minas Gerais).
 - 🌱 Estudando...
   
 ##
@@ -22,27 +22,19 @@
     
 ### 🛰 Technologies:
     
-## 
-    
   <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-C" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Felipe-CPP" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Felipe-JAVA" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Felipe-JS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
   <img align="center" alt="Felipe-TS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Felipe-NODE" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Felipe-CSS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Felipe-HTML" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Felipe-VS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img align="center" alt="Felipe-GIT" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img align="center" alt="Felipe-GITHUB" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Felipe-REACT" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img align="center" alt="Felipe-EXPRESS" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
   <img align="center" alt="Felipe-MATERIALUI" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
-  <img align="center" alt="Felipe-GRAPHQL" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" />
-  <img align="center" alt="Felipe-MYSQL" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Felipe-MONGO" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
-  <img align="center" alt="Felipe-FIREBASE" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" />
+  <img align="center" alt="Felipe-POSTGRES" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img align="center" alt="Felipe-SPRING" height="70" width="70" img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
 </div>
 
 ##
