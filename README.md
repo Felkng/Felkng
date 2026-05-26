@@ -14,8 +14,8 @@
 
 <div align="0">
   <a href="https://github.com/Felkng">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Felkng&show_icons=true&rank_icon=percentile&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felkng&layout=compact&theme=tokyonight"/>       
+  <img src="https://github-readme-stats-one-indol.vercel.app/api?username=Felkng&hide_title=true&hide_rank=false&rank_icon=default&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=transparent&locale=en&hide_border=false&order=1&custom_title=My%20Github%20stats" height="150em" alt="stats graph" />
+  <img src="https://github-readme-stats-one-indol.vercel.app/api/top-langs?username=Felkng&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=transparent&hide_border=false&order=2" height="150em" alt="languages graph" />
 </div>
     
 ##
